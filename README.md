@@ -1,10 +1,10 @@
 # postgres-database-docker
 
 ### postgres-01
-Docker Compose Postgres Multiple Database
+Docker Compose PostgreSQL Multiple Database
 
 ### postgres-02
-SQL commands in a Postgre SQL Docker
+SQL commands in a PostgreSQL Docker
 
 ### postgres-03
-Connect one database to another database in Postgre SQL Docker
+Connect one database to another database in PostgreSQL Docker
