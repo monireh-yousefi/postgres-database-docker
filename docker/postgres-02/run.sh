@@ -1,0 +1,1 @@
+docker run --name monireh_docker_assignment_2 --network host -e POSTGRES_USER=mahdi -e POSTGRES_PASSWORD=password -e POSTGRES_DB=mahdi_db -e POSTGRES_HOST=localhost -e POSTGRES_PORT=5555 monireh_docker_assignment_2;

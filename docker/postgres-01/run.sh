@@ -1,0 +1,1 @@
+docker run --name monireh_docker_assignment_1 -p 5555:5432 -v monireh_docker_assignment_1_pg_data:/var/lib/postgresql/data -e POSTGRES_USER=mahdi -e POSTGRES_PASSWORD=password -e POSTGRES_DB=mahdi_db -v ./docker-entrypoint-initdb.d:/docker-entrypoint-initdb.d postgres:alpine;
